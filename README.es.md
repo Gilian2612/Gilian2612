@@ -1,7 +1,7 @@
 [![English](https://img.shields.io/badge/lang-English-red.svg)](https://github.com/Gilian2612/Gilian2612/blob/main/README.md)
 [![Español](https://img.shields.io/badge/lang-Español-yellow.svg)](https://github.com/Gilian2612/Gilian2612/blob/main/README.es.md)
 
-# Hola, soy Santiago 👋
+# Hola, soy William Santiago Ruiz 👋
 
 Estudiante de **Ingeniería de Sistemas** e **Ingeniería Industrial** en la Escuela Colombiana de Ingeniería Julio Garavito (Bogotá, Colombia).
 
@@ -31,4 +31,4 @@ La ingeniería industrial me da una mirada de procesos y datos: me gusta entende
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-santiago-ruiz-m/)
