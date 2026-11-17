@@ -1,7 +1,7 @@
 [![English](https://img.shields.io/badge/lang-English-red.svg)](https://github.com/Gilian2612/Gilian2612/blob/main/README.md)
 [![Español](https://img.shields.io/badge/lang-Español-yellow.svg)](https://github.com/Gilian2612/Gilian2612/blob/main/README.es.md)
 
-# Hi, I'm Santiago 👋
+# Hi, I'm William Santiago Ruiz 👋
 
 **Software Engineering** and **Industrial Engineering** student at Escuela Colombiana de Ingeniería Julio Garavito (Bogotá, Colombia).
 
@@ -31,4 +31,4 @@ Industrial engineering gives me a process and data mindset: I like to understand
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-santiago-ruiz-m/?locale=en-US)
