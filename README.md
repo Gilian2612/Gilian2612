@@ -3,7 +3,7 @@
 
 # Hi, I'm Santiago 👋
 
-**Systems Engineering** and **Industrial Engineering** student at Escuela Colombiana de Ingeniería Julio Garavito (Bogotá, Colombia).
+**Software Engineering** and **Industrial Engineering** student at Escuela Colombiana de Ingeniería Julio Garavito (Bogotá, Colombia).
 
 I enjoy building software that solves real problems, especially in:
 
